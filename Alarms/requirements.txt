@@ -1,0 +1,5 @@
+requests
+pytest
+Flask
+pyttsx3
+schedule

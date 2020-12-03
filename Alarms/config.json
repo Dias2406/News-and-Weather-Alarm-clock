@@ -1,0 +1,25 @@
+{
+"API-keys": {
+  "weather": "1355635b0782fd6b3c036a38298cc9ab",
+  "news": "0cdb364b22ca4c578ef9788fadde5c9d"
+  },
+"Weather_description": {
+  "City_name": "Exeter"
+  },
+"News_description": {
+  "Country": "gb"
+  },
+"Covid_cases_and_deaths": {
+  "date": "date",
+  "areaName": "areaName",
+  "areaCode": "areaCode",
+  "newCasesByPublishDate": "newCasesByPublishDate",
+  "cumCasesByPublishDate": "cumCasesByPublishDate",
+  "newDeathsByDeathDate": "newDeathsByDeathDate",
+  "cumDeathsByDeathDate": "cumDeathsByDeathDate"
+  },
+"filepaths": {
+  "logfile": "CA3/Alarms/sys.log",
+  "images": "CA3/Alarms/static/images/alarms.png"
+  }
+}
