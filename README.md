@@ -1,4 +1,4 @@
-# CA3: News and Weather Alarm clock
+# News and Weather Alarm clock
 ## Introduction
 This project includes an alarm clock and notifications (such as news, weather and COVID-19 information updates). User can set up an alarm in order to keep informed (using text-to-speech announcements) about recent news, weather and COVID-19 statistics in the country.
 ## Prerequisites
